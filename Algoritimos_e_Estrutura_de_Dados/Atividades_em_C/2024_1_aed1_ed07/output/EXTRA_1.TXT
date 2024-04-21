@@ -1,0 +1,10 @@
+São divisores impares de 105: 
+
+105
+35
+21
+15
+7
+5
+3
+1

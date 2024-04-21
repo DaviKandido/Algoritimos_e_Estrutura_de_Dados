@@ -1,0 +1,1 @@
+A soma dos valores do arquivo Texto_5.txt e: 1.164063

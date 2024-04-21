@@ -1,0 +1,76 @@
+Título :
+
+Síntese dos vídeos sobre textos científicos de Gilson Volpato
+
+Resumo :
+
+Os vídeos analisados em questão tratarão de assuntos relacionados aos tipos de pesquisas e suas relações lógicas, bem como sua estruturação e raciocínio lógico por trás de cada estrutura em si. Explicou-se os três tipos lógicos de pesquisas que são pesquisas que não envolvem o uso de hipóteses e aquelas que envolvem hipóteses as quais se dividem segundo a relação das variáveis analisadas que podem ser tanto de associação ou de interferência. Houve também a análise dos argumentos lógicos utilizados em textos científicos e suas etapas que partem primeiramente de premissas fundamentadas segundo a análise lógica do problema em questão e a conclusão tirada a partir de tal análise. Os argumentos lógicos foram divididos entre dedutivos ou indutivos.
+
+Objetivo :
+
+A partir da análise dos vídeo “AULA 23 de 42 - O TEXTO CIENTÍFICO COMO ARGUMENTO LÓGICO” e “AULA 20 de 42 - TRÊS TIPOS LÓGICOS DE PESQUISA” de Gilson Volpato , preparou-se um esboço de texto científico com uma síntese dos aspectos básicos citados nos vídeos, a fim de servir como processo avaliativo e capacitivo para o desenvolvimento de artigos científicos no modelo canônico de artigo - ICEI PUC Minas pela disciplina de Algoritmos e Estrutura de dados I, bem como relacionar a  importância da comunicação científica para o avanço da ciência e da tecnologia.
+
+Discussão: 
+
+Analisando o vídeo “AULA 23 de 42 - O TEXTO CIENTÍFICO COMO ARGUMENTO LÓGICO” foi possível inferir que o método científico possui profundas relações com o desenvolvimento de argumentos lógicos. E que argumentos lógicos em si se desenvolvem a partir de 2 etapas, as premissas e a conclusão, As premissas geralmente são fatos já previamente estabelecidos e fundamentados que servirão de apoio para se chegar a uma conclusão, ou seja, as premissas são a base de fundamento da conclusão. Um exemplo de argumentação dedutiva usado por Gilson Volpato se encontra abaixo:
+
+Premissas: Todos os homens são mortais, Sócrates é um homem.
+Conclusão: Portanto Sócrates é mortal.
+
+Outro fato destacado em seu vídeo foi a importância de se dar atenção na utilização somente de premissas necessárias para o desenvolvimento da conclusão, ou seja descarta o uso de premissas incoerentes ou desalinhadas ao contexto tratado. Um exemplo por ele utilizado foi da premissa: “Sócrates gosta de alface”, no qual não interferiria na conclusão desejada que era “Sócrates é mortal”
+
+Outro tipo de argumentação destacada foi o argumento indutivo, no qual se baseia no desenvolvimento de uma conclusão a partir da percepção de um comportamento ou característica repetitiva, um exemplo citado por Volpato foi:
+
+Premissas: O rato 1 dormiu em toca, o rato 2 dormiu em toca, o rato 3 dormiu em toca.
+
+Ou seja, o comportamento que se repetiu em todos os ratos levaria a uma conclusão no qual foi:
+
+Conclusão: Os ratos desta espécie dormem em toca.
+
+Apresentou-se também a lógica do texto científico, que é separada em 6 etapas, nas quais são: As justificativas, ou seja razões que levam a uma certa ideia (a introdução em um texto científico é formado pelas justificativas em conjunto da ideia), que são usadas para se traçar métodos, que executados levam a obtenção de resultados, e a partir da análise e comparação dos resultados é elaborado as conclusões (nos textos científicos tratados como o tópico das discussões)
+
+E a partir da análise do vídeo “AULA 20 de 42 - TRÊS TIPOS LÓGICOS DE PESQUISA”, inferiu-se que há diversas formas de se classificar pesquisas, no entanto logicamente se é possível traçar 3 tipos. A fim de explicar cada tipo primeiramente foi necessário explicar o que é uma hipótese. Segundo Volpato (2012), é uma resposta a uma questão, mas que ainda não foi traçada.
+
+O primeiro tipo apresentado é uma pesquisa que envolve a necessidade de uma amostragem de dados, ou seja, a pergunta pela qual se deu a iniciativa da pesquisa necessitou de uma coleta de dados específica para ser respondida, um exemplo apresentado por Volpato foi:
+
+Pergunta: Quantas espécies de pássaros ocorrem aqui?
+Hipótese: Há 20 espécies.
+Resultado: 8 espécies.
+
+No qual foi possível observar que não houve interferência da hipótese no resultado, haja vista, justamente a necessidade da coleta dos dados para respondê-la, ou seja tal direcionamento da coleta de dados foi feito pela pergunta e não pela hipótese formulada. Este tipo de pesquisa se caracteriza por serem mais descritivas, como de estruturas, situações ou ocorrências.
+
+O segundo  e terceiro tipo apresentado por Volpato é a investigação de um problema ou pergunta a partir de hipóteses lógicas a fim de responder a pergunta inicial. Um exemplo citado foi o de um carro que estaria com problema, e a partir da pergunta: “Porque este carro não pega?” se teria a formulação de hipóteses e posteriores investigações destas hipóteses, a fim de encontrar a causa do problema, exemplo:
+
+Hipótese 1: Falta combustível, há a testagem/investigação da hipótese se caso negado se é formulada uma nova hipótese
+
+Hipótese 2: Bomba quebrada, a bomba é examinada, se negada, nova hipótese é formulada
+
+Hipótese 3: Entupimento
+
+Hipótese 4: Bateria fraca, e assim por diante novas hipóteses são formuladas até que se chegue na resposta.
+
+Diferentemente do tipo de pesquisa anterior, agora o direcionamento da coleta de dados é direcionado pelas hipóteses, e não pela pergunta. Se caracterizando pela testagem da relação entre duas ou mais variáveis, comportamento este o qual se divide em 2 categorias: A das relação de associação (quando uma variável estiver mais presente a segundo estará mais ou menos presente, no entanto uma não interfere a outra, mas sim um fator anterior que estimula ou desestimula as duas) ou de interferência (quando a primeira variável interfere diretamente nas próximas variáveis).
+
+
+Conclusão : 
+
+
+Portanto, a partir da análise dos vídeos em questão pode-se concluir que o seguinte trabalho contribuiu para o desenvolvimento e aperfeiçoamento das habilidades e conhecimentos envolvidos na escrita científica bem como a percepção da importância da comunicação científica para o avanço da ciência e da tecnologia como um todo. O estabelecimento de padrões e estruturações lógicas de raciocínio se demonstrou ser eficaz na comprovação e repassagem de fatos e conhecimentos em si, principalmente no meio acadêmico onde a distribuição massiva de informação pode ser um fator complicante para a absorção da mesma, contudo a organização e padronização da escrita científica bem como toda seus aspectos metodológicos em si servem como uma forma de amenizar tal problemática, o que torna tais informações mais acessíveis e consequentemente mais contributivas para o desenvolvimento de todo o meio científico, acadêmico, e tecnológico. 
+
+“A Sociedade da Informação é marcada pelo fluxo constante da produtividade de novos conhecimentos acadêmicos. E o periódico científico é decisivo neste processo global de desenvolvimento científico por gerar um ambiente favorável para os avanços científicos e tecnológicos, em que a informação é o principal insumo da publicação científica mais, especificamente, dos periódicos. Por meio da Ciência, novos conhecimentos são produzidos e, consequentemente, tornam-se públicos, propagando-os perante a comunidade científica mediante trabalhos executados no decorrer da pesquisa com resultados obtidos parciais ou finais” ( MIRANDA, CARVALHO, RIBEIRO, 2018)
+
+
+Referência :
+
+
+AULA 20 de 42 - TRÊS TIPOS LÓGICOS DE PESQUISA.  Gilson Volpato. Botucatu, São Paulo, Brasil: UNESP - Universidade Estadual Paulista, 15 de março de 2012. IGVEC Instituto GilsonVolpato de Educação Científica.
+
+AULA 23 de 42 - O TEXTO CIENTÍFICO COMO ARGUMENTO LÓGICO.  Gilson Volpato. Botucatu, São Paulo, Brasil: UNESP - Universidade Estadual Paulista, 15 de março de 2012. IGVEC Instituto GilsonVolpato de Educação Científica.
+
+AULA 7 de 42 - POR QUE PUBLICAR?.  Gilson Volpato. Botucatu, São Paulo, Brasil: UNESP - Universidade Estadual Paulista, 15 de março de 2012. IGVEC Instituto GilsonVolpato de Educação Científica.
+
+AULA 6 de 42 - CIÊNCIA E TECNOLOGIA.  Gilson Volpato. Botucatu, São Paulo, Brasil: UNESP - Universidade Estadual Paulista, 14 de março de 2012. IGVEC Instituto GilsonVolpato de Educação Científica.
+
+AULA 40 de 42 - CITAÇÕES.  Gilson Volpato. Botucatu, São Paulo, Brasil: UNESP - Universidade Estadual Paulista, 14 de março de 2012. IGVEC Instituto GilsonVolpato de Educação Científica.
+
+DE MIRANDA, Ana Cláudia Carvalho; DE CARVALHO, Edirsana Maria Ribeiro; DA COSTA, Maria Ilza. O impacto dos periódicos na comunicação científica. Biblos, v. 32, n. 1, p. 1-22, 2018.

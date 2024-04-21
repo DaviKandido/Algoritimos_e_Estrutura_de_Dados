@@ -1,0 +1,6 @@
+O valor da soma por enquanto e: 0.000000
+O valor da soma por enquanto e: 0.001600
+O valor da soma por enquanto e: 0.009600
+O valor da soma por enquanto e: 0.049600
+O valor da soma por enquanto e: 0.249600
+A soma de todos os 0 valores do arquivo Texto_4.txt e: 1.249600

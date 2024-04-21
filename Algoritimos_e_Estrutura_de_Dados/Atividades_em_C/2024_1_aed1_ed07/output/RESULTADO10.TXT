@@ -1,0 +1,13 @@
+Sao caracteres Maiusculos de P4R3D3 de T1J0L05 4maR3105; 
+
+PRDTJLR
+
+Sao caracteres Minusculos de P4R3D3 de T1J0L05 4maR3105; 
+
+dema
+
+Sao dígitos maiores ou iguais a 5 de P4R3D3 de T1J0L05 4maR3105; 
+
+PRDdeTJL5maR5
+
+E quantidade de dígitos maiores ou iguais a 5 e: 13
