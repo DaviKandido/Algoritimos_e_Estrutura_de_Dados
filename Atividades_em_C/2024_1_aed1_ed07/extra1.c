@@ -8,7 +8,7 @@ gravar em arquivo os seus divisores ímpares em ordem decrescente.
 
 #include "io.h"
 
-void gravarmultiplosde5(int numero) {
+void Divisoresimpares(int numero) {
 
     FILE * arquivo = fopen ("EXTRA_1.TXT", "wt" );
 
@@ -42,7 +42,7 @@ int main (){
     printf("Digite um numero para se encontrar seus divisores impares: ");
     scanf("%d", &numero);
 
-    gravarmultiplosde5(numero);
+    Divisoresimpares(numero);
 
     return 0;
 }

@@ -1,0 +1,6 @@
+São divisores impares de 60: 
+
+15
+5
+3
+1
