@@ -39,11 +39,11 @@ int f_07(char seq[]) {
         }
     }
 
-    if (T > 0 && U == 0) {
+    if (T > 0 && U == 0 && outro == 0) {
         return 2; // DNA
-    } else if (T == 0 && U > 0) {
+    } else if (T == 0 && U > 0 && outro == 0) {
         return 1; // RNA
-    } else if (T == 0 && U == 0) {
+    } else if (T == 0 && U == 0 && outro == 0) {
         return 0; // Indefinido
     } else {
         return -1; // Erro
@@ -51,7 +51,7 @@ int f_07(char seq[]) {
 }
 
 int main() {
-    char seq[] = "UACAGAUA";
+    char seq[] = "ACAGAA";
 
     printf("f_07('%s') = %d\n", seq, f_07(seq));
 
@@ -67,22 +67,22 @@ int main() {
 
     char seq[] = "TACAGATA"
 
-f_07('TACAGATA') = 2
+f_07('TACAGATA') = 2  // DNA
 
 
     char seq[] = "UACAGAUA";
-
-f_07('UACAGAUA') = 1
+ 
+f_07('UACAGAUA') = 1  // RNA
 
 
     char seq[] = "ACAGAA";
 
-f_07('ACAGAA') = 0
+f_07('ACAGAA') = 0 // Indefinido
 
 
     char seq[] = "TACAGAUA";
 
-f_07('TACAGAUA') = -1
+f_07('TACAGAUA') = -1 // Erro
 */
 
 
