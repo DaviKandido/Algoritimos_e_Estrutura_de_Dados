@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Cliente/Desktop/Faculdade_Disciplinas/Algoritimos_e_Estrutura_de_Dados/Atividades_em_C/2024_1_aed1_ed14",
+      "program": "c:/Users/Cliente/Desktop/Faculdade_Disciplinas/Algoritimos_e_Estrutura_de_Dados/Atividades_em_C/2024_1_aed1_ed14/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
